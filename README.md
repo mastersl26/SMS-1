@@ -36,4 +36,7 @@ python sms.py
 
 ******** SPECIAL - PC Version Included ********
 
+Link = https://github.com/isuruwa/SMS-PC
+
+
 Note - Sometimes it needs to turn off the Windows Defender To Run Tool .
